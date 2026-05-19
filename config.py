@@ -1,12 +1,12 @@
 # config.py
 
-TOKEN = "vk1.a.nn2DLsnkZULmF8sDfYKXNdaEpNsZ9ehyAUzLlDsY9t1E1sSBpwbwHwDYPlB_ZMdAaUG5gTj7kQnuU525Ins1dMo5IAUqVuQisaLUG4B46TeA2_-FR6QJ5Qj1lMZ-ZtRzb3ixu4QO3EUxhWV1sUzoDQpNvdrsezlDD7UwccengQJaHI28qOhq5wuO8iXIPQDNo6kVOFOyn-n-upu5zAMePg"
+TOKEN = "токен_вашего_паблика"
 
 # ========== АДМИНИСТРАТОРЫ ==========
 # Добавьте сюда VK ID всех администраторов
 # Узнать свой ID: vk.com/id<число>
 ADMIN_IDS = [
-    365551926,   # Главный админ
+    # 132366789,   # Главный админ
     # 123456789, # Второй админ (раскомментируйте и замените ID)
     # 987654321, # Третий админ
 ]
